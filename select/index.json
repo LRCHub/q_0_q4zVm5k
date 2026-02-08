@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Aim For The Moon",
+  "base_artist": "Pop Smoke",
+  "createdAt": "2026-02-08T15:16:23.737672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aim For The Moon",
+      "artist": "Pop Smoke",
+      "has_synced": true,
+      "path": "select/01_Aim_For_The_Moon_Pop_Smoke.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aim For The Moon (feat. Quavo)",
+      "artist": "POPSMOKEVEVO",
+      "has_synced": true,
+      "path": "select/02_Aim_For_The_Moon_(feat._Quavo)_POPSMOKEVEVO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aim For The Moon (Explicit)",
+      "artist": "Pop",
+      "has_synced": true,
+      "path": "select/03_Aim_For_The_Moon_(Explicit)_Pop.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aim for the Moon (feat. Quavo)",
+      "artist": "Pop Smoke",
+      "has_synced": true,
+      "path": "select/04_Aim_for_the_Moon_(feat._Quavo)_Pop_Smoke.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aim For The Moon (feat. Quavo)",
+      "artist": "Pop Smoke",
+      "has_synced": true,
+      "path": "select/05_Aim_For_The_Moon_(feat._Quavo)_Pop_Smoke.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aim For The Moon (Feat. Quavo)",
+      "artist": "Pop Smoke",
+      "has_synced": true,
+      "path": "select/06_Aim_For_The_Moon_(Feat._Quavo)_Pop_Smoke.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Aim For The Moon",
+      "artist": "Pop Smoke & Quavo",
+      "has_synced": true,
+      "path": "select/07_Aim_For_The_Moon_Pop_Smoke_&_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Aim for the Moon (feat. Quavo)",
+      "artist": "Pop Smoke",
+      "has_synced": true,
+      "path": "select/08_Aim_for_the_Moon_(feat._Quavo)_Pop_Smoke.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aim For The Moon",
+      "artist": "Pop Smoke",
+      "has_synced": true,
+      "path": "select/09_Aim_For_The_Moon_Pop_Smoke.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Aim For The Moon (Official Music Video) (feat. Quavo)",
+      "artist": "Pop Smoke",
+      "has_synced": true,
+      "path": "select/10_Aim_For_The_Moon_(Official_Music_Video)_(feat._Quavo)_Pop_Smoke.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Aim for the Moon",
+      "artist": "Pop Smoke",
+      "has_synced": true,
+      "path": "select/11_Aim_for_the_Moon_Pop_Smoke.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Aim for the Moon",
+      "artist": "Pop Smoke; Quavo",
+      "has_synced": true,
+      "path": "select/12_Aim_for_the_Moon_Pop_Smoke;_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aim For The Moon (feat. Quavo)",
+      "artist": "Pop Smoke feat. Quavo",
+      "has_synced": true,
+      "path": "select/13_Aim_For_The_Moon_(feat._Quavo)_Pop_Smoke_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Aim for the Head",
+      "artist": "Cruzh",
+      "has_synced": false,
+      "path": "select/14_Aim_for_the_Head_Cruzh.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Aim For The Head (2016)",
+      "artist": "Cruzh",
+      "has_synced": false,
+      "path": "select/15_Aim_For_The_Head_(2016)_Cruzh.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Aim for the Sky",
+      "artist": "The Mayan Factor",
+      "has_synced": false,
+      "path": "select/16_Aim_for_the_Sky_The_Mayan_Factor.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Aim for the Moon (feat. Quavo)",
+      "artist": "Pop Smoke",
+      "has_synced": true,
+      "path": "select/17_Aim_for_the_Moon_(feat._Quavo)_Pop_Smoke.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Aim For The Kill",
+      "artist": "Sunrise Avenue",
+      "has_synced": true,
+      "path": "select/18_Aim_For_The_Kill_Sunrise_Avenue.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Aim for the Moon",
+      "artist": "Pop Smoke feat. Quavo",
+      "has_synced": true,
+      "path": "select/19_Aim_for_the_Moon_Pop_Smoke_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Aim For The Head",
+      "artist": "Creature Feature",
+      "has_synced": false,
+      "path": "select/20_Aim_For_The_Head_Creature_Feature.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Aim for the Sky",
+      "artist": "Mayan Factor, The",
+      "has_synced": true,
+      "path": "select/21_Aim_for_the_Sky_Mayan_Factor,_The.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Aim For The Moon (feat. Quavo)",
+      "artist": "Pop Smoke,Quavo",
+      "has_synced": true,
+      "path": "select/22_Aim_For_The_Moon_(feat._Quavo)_Pop_Smoke,Quavo.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Aim For The Moon (feat. Quavo)",
+      "artist": "Pop Smoke/Quavo",
+      "has_synced": true,
+      "path": "select/23_Aim_For_The_Moon_(feat._Quavo)_Pop_Smoke_Quavo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aim for the Moon (feat. Quavo)",
+      "artist": "Pop Smoke",
+      "has_synced": false,
+      "path": "select/pl_01_Aim_for_the_Moon_(feat._Quavo)_Pop_Smoke.txt"
+    }
+  ]
+}
